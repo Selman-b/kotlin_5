@@ -1,1 +1,1 @@
-recycle view uygulaması
+recycle view uygulaması ile superkahraman arayüzü
